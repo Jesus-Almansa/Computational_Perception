@@ -150,7 +150,6 @@ def apply_arithmetic_operations(operation, image_path1, image_path2, gris):
 
     if gris == 'gris':
         if len(image1.shape) == 3:
-
             image2 = cv2.cvtColor(image2, cv2.COLOR_RGB2GRAY)
 
     # Apply Gaussian Blur
