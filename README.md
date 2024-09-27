@@ -1,3 +1,20 @@
+# Índice
+
+1. [Descripción General](#descripción-general)
+2. [Estructura del Proyecto](#estructura-del-proyecto)
+3. [Funciones Implementadas](#funciones-implementadas)
+   - [Transformaciones](#transformaciones)
+   - [Filtros](#filtros)
+4. [Requisitos](#requisitos)
+
+# Descripción General
+
+Este proyecto se enfoca en aplicar diferentes **transformaciones** a imágenes con el objetivo de mejorar su calidad o destacar ciertas características visuales. Entre las transformaciones implementadas se encuentran ajustes de **brillo**, **contraste**, **ecualización de histograma**, y transformaciones más avanzadas como la **transformación logarítmica** y **corrección gamma**.
+
+## Estructura del Proyecto
+
+El proyecto está organizado en las siguientes carpetas y archivos:
+
 # Procesamiento de Imágenes: Transformaciones de Intensidad
 
 Este proyecto se enfoca en aplicar diferentes **transformaciones** a imágenes con el objetivo de mejorar su calidad o destacar ciertas características visuales. Entre las transformaciones implementadas se encuentran ajustes de **brillo**, **contraste**, **ecualización de histograma**, y transformaciones más avanzadas como la **transformación logarítmica** y **corrección gamma**.
