@@ -15,14 +15,6 @@ Este proyecto se enfoca en aplicar diferentes **transformaciones** a imágenes c
 
 El proyecto está organizado en las siguientes carpetas y archivos:
 
-# Procesamiento de Imágenes: Transformaciones de Intensidad
-
-Este proyecto se enfoca en aplicar diferentes **transformaciones** a imágenes con el objetivo de mejorar su calidad o destacar ciertas características visuales. Entre las transformaciones implementadas se encuentran ajustes de **brillo**, **contraste**, **ecualización de histograma**, y transformaciones más avanzadas como la **transformación logarítmica** y **corrección gamma**.
-
-## Estructura del Proyecto
-
-El proyecto está organizado en las siguientes carpetas y archivos:
-
 Computational_Perception/
 ├── data/                 # Imágenes de entrada
 ├── results/              # Imágenes resultantes después de aplicar las transformaciones
@@ -33,6 +25,10 @@ Computational_Perception/
 ├── tests/                # Pruebas unitarias
 ├── README.md             # Descripción del proyecto
 └── setup.py              # Configuración del proyecto
+
+# Procesamiento de Imágenes: Transformaciones de Intensidad
+
+Este proyecto se enfoca en aplicar diferentes **transformaciones** a imágenes con el objetivo de mejorar su calidad o destacar ciertas características visuales. Entre las transformaciones implementadas se encuentran ajustes de **brillo**, **contraste**, **ecualización de histograma**, y transformaciones más avanzadas como la **transformación logarítmica** y **corrección gamma**.
 
 
 # Proyecto de Procesamiento de Imágenes: Transformaciones y Filtros
