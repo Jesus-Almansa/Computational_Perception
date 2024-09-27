@@ -97,27 +97,3 @@ Este proyecto utiliza **Python 3.12** y las siguientes bibliotecas:
 - `scikit-image`
 
 Estas dependencias se instalan automáticamente al configurar el proyecto.
-
-## Instalación
-
-1. **Clonar el repositorio**:
-   ```bash
-   git clone https://github.com/tu_usuario/Computational_Perception.git
-   cd Computational_Perception
-
-
-
-### Detalles de las secciones:
-
-1. **Descripción general**: Explica el propósito del proyecto y qué transformaciones y filtros se aplican.
-2. **Funciones implementadas**: Da una breve descripción de cada función que has implementado.
-3. **Requisitos**: Explica cómo instalar las dependencias.
-4. **Estructura del proyecto**: Describe la organización de los archivos del proyecto.
-5. **Uso**: Muestra ejemplos de cómo usar las funciones para aplicar transformaciones y filtros a las imágenes.
-6. **Cuadernos Jupyter**: Indica cómo acceder a los cuadernos para explorar ejemplos interactivos.
-7. **Contribuciones**: Indica cómo colaborar en el proyecto.
-8. **Licencia**: Proporciona detalles de la licencia.
-
-Este `README.md` debería proporcionar toda la información necesaria para comprender y usar el proyecto. Puedes modificar o ampliar las secciones según sea necesario.
-
-Si tienes más preguntas o necesitas ayuda adicional, ¡no dudes en avisarme!
